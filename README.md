@@ -1,7 +1,7 @@
 # 🏥 Healthcare Patient Analytics — Understanding Readmissions  
 ### 📊 Power BI + Python + SQL Project  
 
-> 🚀 Designed & Developed by **Deepak Kumar**
+> 🚀 Designed & Developed by me
 
 ---
 
@@ -90,3 +90,40 @@ This project analyzes **hospital patient readmissions** to identify high-risk fa
 ---
 
 ## 📂 Project Structure  
+Healthcare-Analytics/
+│
+├── 📊 Dashboard/
+├── 📓 Notebook/
+├── 📄 Data/
+├── ⚙️ PowerQuery/
+└── 📑 README.md
+
+
+---
+
+## 🧑‍💻 Author  
+
+**Deepak Kumar**  
+Aspiring Data Analyst | Power BI | Python | SQL  
+
+---
+
+## ⭐ Support  
+
+If you like this project:  
+
+- ⭐ Star this repository  
+- 🔁 Share with others  
+- 🤝 Connect for collaboration  
+
+---
+
+## 🏷️ Tags  
+
+`#DataAnalytics` `#PowerBI` `#Python` `#Healthcare` `#SQL` `#EDA`  
+
+---
+
+## 🔖 Watermark  
+
+> ✨ Crafted with precision by me
